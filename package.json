@@ -1,0 +1,23 @@
+{
+  "name": "faq",
+  "version": "1.0.0",
+  "description": "faq project",
+  "main": "index.js",
+  "repository": "git@github.com:Roman-00/vitepress.git",
+  "author": "Roman-00 <rvasin00@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^0.22.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "sass": "^1.49.9",
+    "vitepress-blog-util": "^0.1.4",
+    "vue": "^3.2.31"
+  }
+}

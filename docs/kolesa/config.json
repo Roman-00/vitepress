@@ -1,0 +1,22 @@
+{
+	"baseDir": "docs/kolesa/questions",
+	"categories": [
+		{
+			"id": "advert",
+			"title": "Мои объявления, подача"
+		},
+		{
+			"id": "fast",
+			"title": "Ускорить продажу"
+		},
+		{
+			"id": "moderation",
+			"title": "Модерация"
+		}
+	],
+	"top": {
+		"id": "top",
+		"title": "Самые частые вопросы",
+		"attach": "isTop"
+	}
+}
